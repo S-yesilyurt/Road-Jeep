@@ -1,0 +1,143 @@
+body {
+background-color: #fff;
+color: #000;
+text-align: center;
+line-height: 2;
+}
+
+a {
+  color: white;
+}
+
+
+/* TİTLE OPTIONS */
+#Title-container {
+  color: #fff;
+  background-size: cover;
+  background-image: url("road-jeep6.png");
+  padding-bottom: 25rem;
+  }
+
+.navbar-brand:hover{
+  color: #000;
+}
+
+.nav-item {
+  font-size: 1.2rem;
+  padding: 0 18px;
+}
+
+.nav-link:hover{
+  color: #000;
+}
+.header-text1{
+  font-size: 3rem;
+}
+.header-text2{
+  font-size: 1.2rem;
+  text-decoration: underline;
+}
+
+.title-text {
+  margin-top: 5rem;
+  line-height: 3;
+  text-align: left;
+  margin-left: 6rem;
+  padding-bottom: 2%;
+}
+
+.title-button {
+ text-align: left;
+ margin-left: 6rem;
+}
+
+.download-button {
+  padding: 2px 30px;
+  margin: 5px 5px;
+}
+
+
+
+/* CAROUSEL OPTIONS */
+
+.carousel-header {
+  color: #fff;
+  padding: 5% 0 3%;
+}
+
+
+
+#carousel-container {
+  background-color: #161616;
+}
+
+/* CARDS */
+#Cards {
+  padding-top: 5%;
+
+}
+
+.price-button {
+  padding: 2% 30%;
+}
+
+
+
+
+
+/* ROAD JEEP TEXT OPTIONS */
+
+#Road-text {
+
+  margin: 7% 15%;
+}
+
+.jeep-text-img1 {
+  border-radius: 100%;
+  width: 15rem;
+}
+
+.jeep-text-img2 {
+  border-radius: 100%;
+  height: 7.5rem;
+  width: 15rem;
+
+}
+
+
+
+/* BRAND */
+
+#Brand-list {
+  color: #fff;
+  background-color: #161616;
+}
+.brand-title {
+  text-decoration: underline;
+  padding-top: 5%;
+}
+
+
+.brand-list {
+  margin: 5% 15%;
+}
+
+.brand1, .brand2, .brand3, .brand4 {
+  padding: 5%;
+}
+
+
+/* FOOTER */
+
+.footer {
+  padding-bottom: 2rem;
+}
+
+.footer-title2 {
+  text-decoration: underline;
+  padding-bottom: 5%;
+}
+
+.footer-icon {
+  margin: 20px 10px;
+}
